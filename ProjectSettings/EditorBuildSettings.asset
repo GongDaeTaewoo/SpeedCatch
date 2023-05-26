@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/Start Scene.unity
+    guid: 0f4919d449a6ecb4497b7a25dd4fcba4
+  - enabled: 1
+    path: Assets/01.Scenes/Select Game.unity
+    guid: be65ed701707da34c90e4faa5762b4fc
+  - enabled: 1
+    path: Assets/01.Scenes/Game Scene.unity
+    guid: 293eee2084c25224aa77d4b089709e8c
+  - enabled: 0
+    path: Assets/01.Scenes/DemoScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: Assets/QuestPun2Template/Scenes/Photon2Lobby.unity
+    guid: d498e2505ad6e4a44ab1a1d43767d493
+  - enabled: 0
+    path: Assets/QuestPun2Template/Scenes/Photon2RoomHandTracking 1.unity
+    guid: 40d9de4581633f94b929adb232ca026c
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: bfa1182bd221b4ca89619141f66f1260,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: dc5a169419fa04987b057f65238cf3ba,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a4c68ca72a83449f938d669337cb305,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3dc9573ee28ddfb4c8f0f3de4048e904,
+      type: 2}

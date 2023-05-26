@@ -1,0 +1,233 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1796795548574686094
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1796795548574686092}
+  - component: {fileID: 1796795548574686093}
+  - component: {fileID: 1796795548574686091}
+  - component: {fileID: 1796795548574686090}
+  - component: {fileID: 1649735886887208480}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1796795548574686092
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796795548574686094}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -227.20688, y: 131.57486, z: 31.046844}
+  m_LocalScale: {x: 2.7588, y: 2.7588, z: 2.7588}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1796795548574686093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796795548574686094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 150619905bd4ff9478657e68876df4c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1796795548574686091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796795548574686094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fd9860c340f9924e8827ef4a87cec8f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  networkManager: {fileID: 0}
+  b: 1
+  whoturn: {fileID: 0}
+  player1: {fileID: 0}
+  player2: {fileID: 0}
+  player3: {fileID: 0}
+  player4: {fileID: 0}
+  ovrCameraRig: {fileID: 0}
+  pcount: 0
+  cfirebase: {fileID: 0}
+  guessanswer: {fileID: 0}
+  turncount: 0
+  turn: 0
+  uimanager: {fileID: 0}
+  turnOnce: 1
+  TexturePaintTarget: []
+  TexturePaintBrush: []
+  countdown: {fileID: 0}
+  name1: {fileID: 0}
+  name2: {fileID: 0}
+  name3: {fileID: 0}
+  name4: {fileID: 0}
+  photonview: []
+  pv: {fileID: 1649735886887208480}
+  ui: []
+  uiname: []
+  mode:
+  - "\uC218\uD559\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC \uC815\uB2F5\uC744
+    \uC801\uC5B4\uC8FC\uC138\uC694"
+  - "\uAC8C\uC784\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC \uC815\uB2F5\uC744
+    \uC801\uC5B4\uC8FC\uC138\uC694"
+  - "\uC18D\uB2F4\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC \uC815\uB2F5\uC744
+    \uC801\uC5B4\uC8FC\uC138\uC694"
+  - "\uC601\uC5B4\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC \uC815\uB2F5\uC744
+    \uC801\uC5B4\uC8FC\uC138\uC694"
+  - "\uC601\uD654\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC \uC815\uB2F5\uC744
+    \uC801\uC5B4\uC8FC\uC138\uC694"
+  - "\uC54C\uACE0\uB9AC\uC998\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC \uC815\uB2F5\uC744
+    \uC801\uC5B4\uC8FC\uC138\uC694"
+  - "\uCEF4\uD4E8\uD130\uADF8\uB798\uD53D\uC2A4\uC5D0 \uAD00\uB828\uB41C \uC81C\uC2DC\uBB38\uACFC
+    \uC815\uB2F5\uC744 \uC801\uC5B4\uC8FC\uC138\uC694"
+  modetext: {fileID: 0}
+  colors1: []
+  tools1: []
+  ptools1: []
+  colors2: []
+  tools2: []
+  ptools2: []
+  colors3: []
+  tools3: []
+  ptools3: []
+  colors4: []
+  tools4: []
+  ptools4: []
+--- !u!82 &1796795548574686090
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796795548574686094}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!114 &1649735886887208480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1796795548574686094}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 1
+  Group: 0
+  prefixField: -1
+  Synchronization: 3
+  OwnershipTransfer: 0
+  observableSearch: 2
+  ObservedComponents: []
+  sceneViewId: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0

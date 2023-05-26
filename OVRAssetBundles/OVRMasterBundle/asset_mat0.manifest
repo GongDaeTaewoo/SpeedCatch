@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 1385215125
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 187478c020cb5ffcae006c224f6754d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b93bd442b8167f85f0de1ddd2c5f516d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomRugMat.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/StencilSkydome.mat
+- Assets/Oculus/VR/Materials/BasicHandMaterial.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFurnitureMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/RockParticle.mat
+- Assets/03.meterial/New Material 5.mat
+- Assets/03.meterial/New Material 9.mat
+- Assets/Oculus/Interaction/Samples/Materials/ThumbsDown.mat
+- Assets/08.textures/Materials/Materials/images.mat
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Materials/MAT_floor_wood_02.mat
+- Assets/03.meterial/New Material 3.mat
+- Assets/05. Resources/2021_0619_Paint Texture/Custom_PaintTexture_White.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/03.meterial/New Material 8.mat
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Materials/Robot_Color.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomWoodMat.mat
+- Assets/Oculus/Interaction/Samples/Materials/PaperParticle.mat
+- Assets/Oculus/Interaction/Samples/Materials/HandStopParticle.mat
+- Assets/08.textures/Materials/Materials/png-transparent-paint-bucket-tool-computer-icons-paint-painting-first-aid-paint.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFloorMat.mat
+- Assets/08.textures/Materials/Materials/pngtree-vector-right-arrow-icon-png-image_931135.mat
+- Assets/Oculus/Interaction/Runtime/Materials/OculusHand.mat
+- Assets/Oculus/Interaction/Samples/Materials/ThumbsUp.mat
+- Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Kenney Assets/Stylized
+  city/Materials/13 - Default.mat
+- Assets/Oculus/Interaction/Runtime/Materials/RoundedBoxUnlit.mat
+- Assets/03.meterial/New Material 10.mat
+- Assets/03.meterial/New Material 2.mat
+- Assets/03.meterial/New Material 1.mat
+- Assets/Oculus/Interaction/Runtime/Materials/Unlit Material.mat
+Dependencies:
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_tga0

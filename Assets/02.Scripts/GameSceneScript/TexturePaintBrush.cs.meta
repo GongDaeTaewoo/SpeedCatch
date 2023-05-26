@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: ddacc8664cfddab46a118de0a536aa07
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - networkManager: {fileID: 2447682425184773078, guid: 7cc7c49b299601541920df549c8f7277,
+      type: 3}
+  - brushTexture: {instanceID: 0}
+  - FingerRay: {instanceID: 0}
+  - undopop: {instanceID: 0}
+  - redopop: {instanceID: 0}
+  - WhiteTexture: {instanceID: 0}
+  - PaintTexture: {instanceID: 0}
+  - init: {instanceID: 0}
+  - reinit: {instanceID: 0}
+  - currentCollider: {instanceID: 0}
+  - gamemanager: {fileID: 1796795548574686091, guid: b77fd6986fa07c84eab3116f35e2171e,
+      type: 3}
+  - paintTarget: {instanceID: 0}
+  - paintTarget2: {instanceID: 0}
+  - paintTarget3: {instanceID: 0}
+  - paintTarget4: {instanceID: 0}
+  - CopiedBrushTexture: {instanceID: 0}
+  executionOrder: 400
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

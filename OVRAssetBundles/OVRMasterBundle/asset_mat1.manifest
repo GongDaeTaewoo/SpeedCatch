@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1171374824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d02440ba9fef9a39c931ba800bf1bf1e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b93bd442b8167f85f0de1ddd2c5f516d
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/03.meterial/New Material 6.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/WindowStencilWriter.mat
+- Assets/08.textures/Materials/Materials/img.mat
+- Assets/08.textures/Materials/Materials/eraser2.mat
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Materials/SmallRoomFabricMat.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/03.meterial/New Material 7.mat
+- Assets/Oculus/Interaction/Runtime/Materials/GrabDebugSphere.mat
+- Assets/Oculus/Interaction/Samples/Materials/ScissorsParticle.mat
+Dependencies:
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_jpg0
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_resources
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/ICT/DrawGame/OVRAssetBundles/OVRMasterBundle/asset_tga0

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6988525050234555190
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6988525050234555188}
+  - component: {fileID: 6988525050234555191}
+  m_Layer: 0
+  m_Name: Texture PaintBrush
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6988525050234555188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6988525050234555190}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6988525050234555191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6988525050234555190}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ddacc8664cfddab46a118de0a536aa07, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  networkManager: {fileID: 2447682425184773078, guid: 7cc7c49b299601541920df549c8f7277,
+    type: 3}
+  brushSize: 0.1
+  brushTexture: {fileID: 0}
+  brushColor: {r: 1, g: 1, b: 1, a: 1}
+  col2: {r: 0, g: 0, b: 0, a: 0}
+  FingerRay: {fileID: 0}
+  undopop: {fileID: 0}
+  redopop: {fileID: 0}
+  WhiteTexture: {fileID: 0}
+  PaintTexture: {fileID: 0}
+  init: {fileID: 0}
+  reinit: {fileID: 0}
+  resolution: 512
+  currentCollider: {fileID: 0}
+  gamemanager: {fileID: 1796795548574686091, guid: b77fd6986fa07c84eab3116f35e2171e,
+    type: 3}
+  paintTarget: {fileID: 0}
+  paintTarget2: {fileID: 0}
+  paintTarget3: {fileID: 0}
+  paintTarget4: {fileID: 0}
+  CopiedBrushTexture: {fileID: 0}
+  sameUvPoint: {x: 0, y: 0}

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1251689197
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bcdc328c6f2e371a4a6dccb8aa8c7105
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/08.textures/Materials/pngtree-vector-right-arrow-icon-png-image_931135.jpg
+- Assets/08.textures/Materials/img.jpg
+Dependencies: []

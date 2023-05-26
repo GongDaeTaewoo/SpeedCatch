@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1773233318
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4dbe2fcbb1b3fd8bd592bca2147c6f0d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Textures/Robot_Normal.png
+- Assets/Oculus/VR/Textures/HandTracking/HandTracking_uvmap_2048.png
+- Assets/08.textures/Materials/eraser2.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/skydomeBaked.png
+- Assets/Oculus/Interaction/Samples/Textures/Rock.png
+- Packages/com.unity.inputsystem/InputSystem/Editor/Icons/InputSystemUIInputModule@64.png
+- Assets/Oculus/Interaction/Samples/Textures/Paper.png
+- Assets/08.textures/Materials/png-transparent-paint-bucket-tool-computer-icons-paint-painting-first-aid-paint.png
+- Assets/Oculus/Interaction/Samples/Textures/Scissors.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/floor_wood_02_dif.png
+- Assets/Oculus/Interaction/Samples/Textures/ThumbsUp.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/ConcreteTiling.png
+- Assets/Oculus/Interaction/Samples/Textures/ThumbsDown.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/WoodTiling.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/furnitureDiffuse.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/floorDiffuse.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/floor_wood_02_msm.png
+- Assets/Photon/PhotonUnityNetworking/Demos/Shared Assets/Textures/Robot_Color.png
+- Assets/Oculus/VR/Textures/OculusTouchForRift/touchController_albedo.png
+- Assets/Oculus/Interaction/Samples/Textures/HandStop.png
+- Assets/Oculus/Interaction/Runtime/Textures/fingers_glow_mask.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/CarpetTiling.png
+- Packages/com.unity.animation.rigging/Editor/Icons/RuntimeRig@32.png
+- Assets/Oculus/Interaction/Samples/Objects/Environment/Room/Textures/FabricTiling.png
+- Assets/08.textures/Materials/images.png
+- Assets/Oculus/SampleFramework/Usage/Locomotion/Textures/floor_wood_02_nml.png
+Dependencies: []
