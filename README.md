@@ -116,6 +116,3 @@ public void download()
 1636008 문신우
 1971286 김태우
 1871293 허진영
-
-# 9.깃허브
-https://github.com/GongDaeTaewoo/SpeedCatch
