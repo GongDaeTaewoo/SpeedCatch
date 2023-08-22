@@ -9,10 +9,10 @@
 ## 1-2프로젝트 기간
 2022/3/9~2022/6/14
 # 2.기술스택
--C#
--Unity
--PUN2(Photon Unity Networking)
--Firebase
+- C#
+- Unity
+- PUN2(Photon Unity Networking)
+- Firebase
 
 # 3.내가 담당한 기능
 Photon Unity Network 와 Firebase를 활용한 음성채팅과
